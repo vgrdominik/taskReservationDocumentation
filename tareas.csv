@@ -1,0 +1,44 @@
+﻿"Issue Id","Project","Tags","Summary","Reporter","Created","Updated","Resolved","Priority","Type","State","Assignee","Sprints","Ideal days","Story points","Description","Votes"
+"VGTR-20","ValentiGamezTaskReservation","","Deploy de la versión beta 0.1.0","Valentí Gàmez","23 Feb 2020","27 Feb 2020","27 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* Dominio: https://reservas.valentigamez.com","0"
+"VGTR-22","ValentiGamezTaskReservation","","Crear páginas de condiciones","Valentí Gàmez","23 Feb 2020","27 Feb 2020","27 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* Cookies.
+* Condiciones generales.
+* Ley de protección de datos.","0"
+"VGTR-16","ValentiGamezTaskReservation","","Crear página notificaciones","Valentí Gàmez","23 Feb 2020","27 Feb 2020","27 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","2",,"* Listado
+* Visualización
+* Edición (Si tienes permisos)
+* Eliminación (Si tienes permisos)
+* Creación (Si tienes permisos)","0"
+"VGTR-18","ValentiGamezTaskReservation","Calendario","Crear página Calendario","Valentí Gàmez","23 Feb 2020","26 Feb 2020","26 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","2",,"* Mostrar horas disponibles.
+* Se tiene que poder ver mensual, semanal y diariamente.
+* Se tiene que poder reservar una hora libre.","0"
+"VGTR-21","ValentiGamezTaskReservation","","Crear logout","Valentí Gàmez","23 Feb 2020","26 Feb 2020","26 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* Si se ha hecho login en su lugar de la cabecera debe aparecer el nombre del usuario junto al botón logout.","0"
+"VGTR-11","ValentiGamezTaskReservation","","Crear modelos","Valentí Gàmez","23 Feb 2020","26 Feb 2020","26 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* Usuarios - HECHO, solo revisar.
+* Reunión
+* Evento. Relación con modelo del evento que lo complementa.","0"
+"VGTR-12","ValentiGamezTaskReservation","","Crear controladores","Valentí Gàmez","23 Feb 2020","26 Feb 2020","26 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* En base a un resource crear los controladores para gestionar el aplicativo.","0"
+"VGTR-14","ValentiGamezTaskReservation","","Crear página Recuperar contraseña","Valentí Gàmez","23 Feb 2020","26 Feb 2020","26 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"Autodescriptiva.","0"
+"VGTR-15","ValentiGamezTaskReservation","","Crear página Registro gratuito","Valentí Gàmez","23 Feb 2020","25 Feb 2020","25 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"Autodescriptivo.","0"
+"VGTR-13","ValentiGamezTaskReservation","","Crear página de login","Valentí Gàmez","23 Feb 2020","25 Feb 2020","25 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"Autodescriptiva.","0"
+"VGTR-9","ValentiGamezTaskReservation","","Bases frontal","Valentí Gàmez","22 Feb 2020","24 Feb 2020","24 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","2",,"* Layout general
+Cabecera con título, botón ""Sobre"" que vuelva a https://valentigamez.com y el botón Login / Registro gratuito que serà substituido por el nombre si se está logueado.
+Footer con enlace a condiciones, ley de protección de datos y creador.
+* Vuetify (Librería de diseño y ui).
+* Botones por defecto.
+* Cards por defecto.
+* Switch por defecto.
+* Textfield por defecto.
+* Textarea por defecto.
+* Imagen por defecto.
+* Listados por defecto.
+* Edición/creación de modelo por defecto.
+* Página de inicio sin contenido.","0"
+"VGTR-10","ValentiGamezTaskReservation","","Bases backend","Valentí Gàmez","23 Feb 2020","24 Feb 2020","24 Feb 2020","Normal","Task","Done","valentigamez","Versión beta 0.1.0","1",,"* Base resource controller
+* Base model
+* Base transformer","0"
+"VGTR-5","ValentiGamezTaskReservation","","Definición de tareas a realizar","Valentí Gàmez","22 Feb 2020","23 Feb 2020","23 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","2",,"Autodescriptivo","0"
+"VGTR-4","ValentiGamezTaskReservation","","Wireframe del spa","Valentí Gàmez","22 Feb 2020","22 Feb 2020","22 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","1",,"Autodescriptivo.","0"
+"VGTR-7","ValentiGamezTaskReservation","","Crear README inicial de la api","Valentí Gàmez","22 Feb 2020","22 Feb 2020","22 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","1",,"Autodescriptivo.","0"
+"VGTR-8","ValentiGamezTaskReservation","","Crear README inicial del frontal","Valentí Gàmez","22 Feb 2020","22 Feb 2020","22 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","1",,,"0"
+"VGTR-3","ValentiGamezTaskReservation","","Iniciar repositorio Frontend","Valentí Gàmez","22 Feb 2020","22 Feb 2020","22 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","1",,"Autodescriptiva.","0"
+"VGTR-2","ValentiGamezTaskReservation","","Iniciar repositorio Api","Valentí Gàmez","22 Feb 2020","22 Feb 2020","22 Feb 2020","Normal","Task","Done","valentigamez","S0 Organización","1",,"Autodescriptiva.","0"
+"VGTR-1","ValentiGamezTaskReservation","Calendario","Añadir reunión","Valentí Gàmez","22 Feb 2020","22 Feb 2020",,"Normal","Task","Open","Unassigned","Unscheduled",,,"A detallar","0"
